@@ -18,8 +18,11 @@ We also want to move the following additional features to plugins:
 
 To not impact the Wordpress user experience, the following features will be installed by default:
 
+- The CorePress updater
 - Plugin/theme repo & updater
 - Gutenberg
+
+Plugins that reimplement feature that is shipped out of the box with WordPress will be featured more prominently in the plugin repo.
 
 ## Removed from CorePress
 
@@ -40,3 +43,7 @@ We're also working on some new/enhanced plugins made specifically for CorePress 
 - SEO
 
 More information on these plugins will be published during development.
+
+## Plugin & theme sources
+
+Plugins & themes will be by default sourced from CorePress repos, with WordPress repos being also accessible. Because we try to maintain 100% compatibility, every WordPress plugin should work out of the box or with help of our compatibility plugin.
