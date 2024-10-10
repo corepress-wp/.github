@@ -1,6 +1,6 @@
 # CorePress
 
-CorePress is an experimental fork of WordPress with the goal of making it more modular and faster, while preserving maximum compatibility.
+CorePress is an experimental modern CMS with the goal of being modular and fast, while preserving maximum compatibility with WordPress and its plugins.
 
 For this, the following features have been moved to plugins
  
@@ -23,6 +23,10 @@ To not impact the Wordpress user experience, the following features will be inst
 - Gutenberg
 
 Plugins that reimplement feature that is shipped out of the box with WordPress will be featured more prominently in the plugin repo.
+
+## Reimplementing the plugin downloading system
+
+The plugin repository will also be completely reimplemented soon.
 
 ## Removed from CorePress
 
